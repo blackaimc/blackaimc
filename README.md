@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-# Blackai(블랙카이)
-Hello, I'm Blackai, and I am developer.
+# KAI(카이)
+Hello, I'm KAI, and I am developer.
 
 Discord : [WhyKAI_#7777]
-Mail : [blackai@kakao.com](mailto:blackai@kakao.com)
+Mail : [dev@directest.kr](mailto:dev@directest.kr)
 
 ![Blackai's github Status](https://github-readme-stats.vercel.app/api?username=blackaimc&show_icons=true&theme=tokyonight)
 ### Top Language
