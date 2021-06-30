@@ -3,7 +3,7 @@
 # Blackai(블랙카이)
 Hello, I'm Blackai, and I am developer.
 
-Discord : [Blackai#2020]
+Discord : [WhyKAI_#7777]
 Mail : [blackai@kakao.com](mailto:blackai@kakao.com)
 
 ![Blackai's github Status](https://github-readme-stats.vercel.app/api?username=blackaimc&show_icons=true&theme=tokyonight)
